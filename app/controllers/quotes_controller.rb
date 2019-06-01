@@ -4,6 +4,7 @@ class QuotesController < ApplicationController
   end
 
 
+  
 
 
 
